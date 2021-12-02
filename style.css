@@ -1,0 +1,33 @@
+.heading
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+body
+{
+   background-size: cover;
+}
+
+.note
+{
+    color: black;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#song
+{
+    width: 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+canvas
+{
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-top: 90px;
+}
